@@ -1,1 +1,2 @@
-# Fireanimation-CSS
+
+--Can be powered by Javascript--
